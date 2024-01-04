@@ -1,0 +1,6 @@
+flask
+tensorflow
+image
+pathlib
+keras
+numpy
